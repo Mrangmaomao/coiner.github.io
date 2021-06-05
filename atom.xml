@@ -3,14 +3,14 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://mrangmaomao.github.io/coiner.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://mrangmaomao.github.io/coiner.github.io/"/>
   <updated>2021-06-05T10:33:28.481Z</updated>
-  <id>http://example.com/</id>
+  <id>https://mrangmaomao.github.io/coiner.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>coiner</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>wangmaomao</title>
-    <link href="http://example.com/2021/06/05/wangmaomao/"/>
-    <id>http://example.com/2021/06/05/wangmaomao/</id>
+    <link href="https://mrangmaomao.github.io/coiner.github.io/2021/06/05/wangmaomao/"/>
+    <id>https://mrangmaomao.github.io/coiner.github.io/2021/06/05/wangmaomao/</id>
     <published>2021-06-05T10:33:06.984Z</published>
     <updated>2021-06-05T10:33:28.481Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/06/05/hello-world/"/>
-    <id>http://example.com/2021/06/05/hello-world/</id>
+    <link href="https://mrangmaomao.github.io/coiner.github.io/2021/06/05/hello-world/"/>
+    <id>https://mrangmaomao.github.io/coiner.github.io/2021/06/05/hello-world/</id>
     <published>2021-06-05T10:08:02.937Z</published>
     <updated>2021-06-05T10:08:02.937Z</updated>
     
